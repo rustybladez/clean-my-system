@@ -50,9 +50,9 @@ bash --version
 
 1. **Download the script:**
    ```bash
-   curl -O https://example.com/cleanup.sh
+   curl -O https://raw.githubusercontent.com/rustybladez/clean-my-system/refs/heads/main/cleanup.sh
    # OR
-   wget https://example.com/cleanup.sh
+   wget https://raw.githubusercontent.com/rustybladez/clean-my-system/refs/heads/main/cleanup.sh
    ```
 
 2. **Make it executable:**
@@ -415,19 +415,9 @@ Contributions are welcome! Please:
 3. Test thoroughly with dry-run mode
 4. Submit a pull request
 
-## License
-
-This script is provided as-is under the MIT License.
-
 ## Support
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
 - Check existing issues for solutions
 - Review the troubleshooting section above
-
----
-
-**Last Updated:** February 2024  
-**Version:** 1.0.0  
-**Compatibility:** Linux, macOS
